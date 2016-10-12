@@ -1,0 +1,67 @@
+header {
+  width: 100vw;
+
+}
+.box {
+  height: 30vh;
+  width: 30vw;
+
+  display: inline-block;
+  margin-bottom: 10px;
+
+}
+#box1 {
+  background-color:red;
+  margin-right: 30px;
+}
+#box2 {
+  background-color:blue;
+  margin-right: 30px;
+}
+#box3 {
+  background-color:grey;
+  margin-right: 30px;
+}
+.large {
+
+  margin: auto;
+  margin-bottom: 30px;
+}
+.two-box {
+  height: 40vh;
+  float: left;
+  margin: auto;
+  text-align: center;
+}
+#red {
+  background-color: red;
+  width: 40vw;
+
+}
+#blue {
+  background-color: blue;
+  width: 60vw;
+}
+.bottom {
+  height: 30vh;
+  /*position: relative;
+  bottom: -50px;*/
+  float: left;
+  margin-top: 20px;
+}
+#box4 {
+  background-color: blue;
+  width: 60vw;
+}
+#box5 {
+  background-color: brown;
+  width: 10vw;
+}
+#box6 {
+  background-color: red;
+  width: 20vw;
+}
+#box7 {
+  background-color: brown;
+  width: 10vw;
+}
