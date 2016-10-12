@@ -1,0 +1,68 @@
+body {
+  background-color: #D8D8D8;
+  /*height: 100vh;*/
+
+
+}
+.box1 {
+  margin: auto;
+  width: 70vw;
+  background-color: white;
+  margin-top: 30px;
+  padding: 20px;
+}
+.text {
+  margin-bottom: 20px;
+}
+.button {
+  height: 10vh;
+  width: 15vw;
+  text-align: center;
+  line-height: 10vh;
+  font-size: 25px;
+  color: white;
+  display: inline-block;
+  margin-right: 10px;
+}
+#red {
+  background-color: red;
+}
+#blue {
+  background-color: blue;
+}
+.box1 {
+  margin: auto;
+  width: 70vw;
+  background-color: white;
+  margin-top: 30px;
+  padding: 20px;
+}
+.menu {
+  height: 50vh;
+  width: 70vw;
+  background-color: grey;
+  background: url("hats.png") no-repeat;
+  background-size: cover;
+}
+.text1 {
+  margin-top: 30px;
+}
+.bottom {
+  background-color: #333333;
+  height: 20vh;
+  width: 100vw;
+  margin-top: 30px;
+}
+.apple {
+  font-size: 30px;
+  color: white;
+  height: 10vh;
+  line-height: 10vh;
+  float: right;
+  margin-top: 25px;
+  margin-right:130px;
+
+}
+#goo {
+  margin-right: 50px;
+}
