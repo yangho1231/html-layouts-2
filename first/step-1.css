@@ -11,15 +11,15 @@ header {
 
 }
 #box1 {
-  background-color:red;
+  background-color:#D0021B;
   margin-right: 30px;
 }
 #box2 {
-  background-color:blue;
+  background-color:#4A90E2;
   margin-right: 30px;
 }
 #box3 {
-  background-color:grey;
+  background-color:#4A4A4A;
   margin-right: 30px;
 }
 .large {
@@ -34,12 +34,12 @@ header {
   text-align: center;
 }
 #red {
-  background-color: red;
+  background-color: #4A90E2;
   width: 40vw;
 
 }
 #blue {
-  background-color: blue;
+  background-color: #D0021B;
   width: 60vw;
 }
 .bottom {
@@ -50,7 +50,7 @@ header {
   margin-top: 20px;
 }
 #box4 {
-  background-color: blue;
+  background-color: #D0021B;
   width: 60vw;
 }
 #box5 {
@@ -58,7 +58,7 @@ header {
   width: 10vw;
 }
 #box6 {
-  background-color: red;
+  background-color: #4A90E2;
   width: 20vw;
 }
 #box7 {
