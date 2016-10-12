@@ -1,0 +1,48 @@
+.top {
+  background-color: #333333;
+  height: 20vh;
+  width: 100vw;
+}
+.apple {
+  font-size: 30px;
+  color: white;
+  height: 10vh;
+  line-height: 10vh;
+  float: left;
+  margin-top: 25px;
+  margin-left: 35px;
+}
+#app {
+  margin-right: 30px;
+}
+.content {
+  border: 5px solid red;
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+
+
+}
+.left {
+/*display: inline-block;*/
+width: 40vw;
+
+}
+.right {
+  /*display: inline-block;*/
+  width: 40vw;
+
+
+}
+.box {
+  background-color: #D8D8D8;
+  width: 40vw;
+  height: 50vh;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.bottom {
+  background-color: #333333;
+  height:20vh;
+  width: 100vw;
+}
